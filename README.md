@@ -23,7 +23,7 @@ This is a basic Spring Boot application developed as part of the Java Spring Fra
 4.  Run the `Task1Application.java` file.
 5.  Access the application in your browser at:
     * `http://localhost:8080/greeting`
-    * `http://localhost:8080/greeting?name=YourName`
+   
 
 ## Author
 * **Name:** LETHUKUTHULA JUBILANT NGWENYA
